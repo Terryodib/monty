@@ -27,8 +27,6 @@ push 5
 # Setting LIFO
 stack
 push 5
-$
-```
 
 ## Technologies
 * Interpreter was written with C language
